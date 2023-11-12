@@ -1,2 +1,2 @@
-# DataSci-python
-studying and implementing the use of python in data science to visualize and analyze data
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
