@@ -1,2 +1,2 @@
-# Python-Data-Science-and-Machine-Learning-Bootcamp
-Repo for Python Data Science and Machine Learning Bootcamp
+# Python for Data Science
+Repo to study python specifically for Data Science and its related domains
